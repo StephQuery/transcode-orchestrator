@@ -1,7 +1,7 @@
 module github.com/cbsinteractive/transcode-orchestrator
 
 replace github.com/bitmovin/bitmovin-api-sdk-go => github.com/zsiec/bitmovin-api-sdk-go v1.30.0-alpha.0.0.20191206023358-8ff55f235fcf
-replace github.com/StephQuery/transcode-orchestrator => github.com/video-dev/video-transcoding-api latest
+replace github.com/video-dev/video-transcoding-api => github.com/StephQuery/transcode-orchestrator latest
 
 require (
 	github.com/NYTimes/gizmo v1.3.5
